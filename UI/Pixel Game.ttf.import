@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://bjqyxkrp8dcm1"
-path="res://.godot/imported/Pixel Game.otf-f8ae1ccc3019a7a05933e8b07bb48632.fontdata"
+uid="uid://ehpeia82hqed"
+path="res://.godot/imported/Pixel Game.ttf-79e814325a8eaed6da29d2dd8b4d9589.fontdata"
 
 [deps]
 
-source_file="res://UI/Pixel Game.otf"
-dest_files=["res://.godot/imported/Pixel Game.otf-f8ae1ccc3019a7a05933e8b07bb48632.fontdata"]
+source_file="res://UI/Pixel Game.ttf"
+dest_files=["res://.godot/imported/Pixel Game.ttf-79e814325a8eaed6da29d2dd8b4d9589.fontdata"]
 
 [params]
 
@@ -22,8 +22,8 @@ msdf_size=48
 allow_system_fallback=true
 force_autohinter=false
 modulate_color_glyphs=false
-hinting=1
-subpixel_positioning=1
+hinting=3
+subpixel_positioning=4
 keep_rounding_remainders=true
 oversampling=0.0
 Fallbacks=null
