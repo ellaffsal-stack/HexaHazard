@@ -1,3 +1,12 @@
-platformWeb
+ PlatformWeb
 
-platformWeb is an open-source 2D pixel-art platformer and survival game built with the Godot Engine. This repository contains the full source code and project files for anyone interested in studying the game's mechanics, modifying the levels, or using the project as a foundation for their own games. The game features six progressive levels where players navigate obstacles, collect coins, and defeat enemies using classic head-jump mechanics. It is designed to run in web browsers through Godot's Web export. The project was created entirely by Elaf Saleh using human creativity and development, without the use of generative AI. Feel free to explore the source code, experiment with the project, and build upon it! 🎮 Play the live version: itch.io Developed by: Elaf Saleh
+A 2D pixel-art platformer and survival game built with the Godot Engine. 
+
+   About The Game
+Navigate obstacles, collect coins, and defeat enemies across six progressive levels using classic head-jump mechanics. Designed to run smoothly in web browsers.
+
+   Links
+🎮 *Play Live:* https://elaf-saleh.itch.io/platformweb
+
+   License
+This project is licensed under the MIT License.
