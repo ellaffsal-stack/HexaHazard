@@ -372,7 +372,6 @@ offset_bottom = 17.219994
 grow_horizontal = 2
 grow_vertical = 2
 theme_override_fonts/font = ExtResource("6_od3ui")
-theme_override_font_sizes/font_size = 120
 text = "You died"
 label_settings = SubResource("LabelSettings_vtle1")
 
