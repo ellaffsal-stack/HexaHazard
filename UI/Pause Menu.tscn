@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://g8kq2xsy24xq"]
 
 [ext_resource type="Script" uid="uid://d1j3ndujnjrmn" path="res://UI/pause_menu.gd" id="1"]
-[ext_resource type="FontFile" uid="uid://ehpeia82hqed" path="res://UI/Pixel Game.ttf" id="2"]
+[ext_resource type="FontFile" uid="uid://olj1befosfsm" path="res://UI/Pixel Game.ttf" id="2_u7ovk"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_u7ovk"]
 
@@ -43,7 +43,7 @@ theme_override_colors/font_pressed_color = Color(0.46519148, 0.46519166, 0, 1)
 theme_override_colors/font_hover_color = Color(0.5831914, 0.58319145, 1.92523e-07, 1)
 theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
 theme_override_constants/outline_size = 5
-theme_override_fonts/font = ExtResource("2")
+theme_override_fonts/font = ExtResource("2_u7ovk")
 theme_override_font_sizes/font_size = 35
 theme_override_styles/normal = SubResource("StyleBoxEmpty_u7ovk")
 theme_override_styles/normal_mirrored = SubResource("StyleBoxEmpty_u7ovk")
@@ -76,7 +76,7 @@ theme_override_colors/font_pressed_color = Color(0.6003794, 1.4439225e-06, 4.331
 theme_override_colors/font_hover_color = Color(0.8163972, 1.6605109e-06, 9.62615e-07, 1)
 theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
 theme_override_constants/outline_size = 5
-theme_override_fonts/font = ExtResource("2")
+theme_override_fonts/font = ExtResource("2_u7ovk")
 theme_override_font_sizes/font_size = 35
 theme_override_styles/normal = SubResource("StyleBoxEmpty_u7ovk")
 theme_override_styles/normal_mirrored = SubResource("StyleBoxEmpty_u7ovk")
@@ -104,7 +104,7 @@ grow_horizontal = 2
 theme_override_colors/font_color = Color(0.80784315, 0.90588236, 0, 1)
 theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
 theme_override_constants/outline_size = 12
-theme_override_fonts/font = ExtResource("2")
+theme_override_fonts/font = ExtResource("2_u7ovk")
 theme_override_font_sizes/font_size = 41
 text = "Game Paused"
 
