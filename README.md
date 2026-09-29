@@ -1,4 +1,4 @@
-# PlatformWeb
+# HexaHazard
 
 A 2D pixel-art platformer and survival game built with the Godot Engine.
 
